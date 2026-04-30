@@ -54,11 +54,11 @@ const muhammad = {
 
 <div align="center">
 
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHamroqulov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9)
+![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gulnozaqurbonova838-source&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamroqulov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gulnozaqurbonova838-source&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadHamroqulov&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=gulnozaqurbonova838-source&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff)
 
 </div>
 
@@ -97,9 +97,9 @@ const muhammad = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadHamroqulov)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MuhammadHamroqulov)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gulnozaqurbonova838-source)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gulnozaqurbonova838-source)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gulnozaqurbonova838@gmail.com)
 
 </div>
 
@@ -107,7 +107,7 @@ const muhammad = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MuhammadHamroqulov&color=58a6ff&style=for-the-badge&label=Profilni+ko'rganlar)
+![Profile Views](https://komarev.com/ghpvc/?username=gulnozaqurbonova838-source&color=58a6ff&style=for-the-badge&label=Profilni+ko'rganlar)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bc8cff,100:58a6ff&height=100&section=footer" width="100%"/>
 
